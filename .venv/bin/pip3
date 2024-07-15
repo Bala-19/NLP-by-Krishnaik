@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/balanivas/Desktop/NLP by Krishnaik/.venv/bin/python3" "$0" "$@"
+'''exec' "/Users/balanivas/Desktop/NLP by Krishnaik/.venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
